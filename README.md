@@ -4,7 +4,7 @@
 ### <p>Description:</p>
 <div>Hello and welcome to my personal website.</div>
 <div>Here I promote links to my social media or servers and I occasionally drop some lore for upcoming projects!</div>
-<div>Check out <a href="https://z4ckstudios.com/TZP">TZP</a> for more info.. :3</div>
+<div>Check out <a href="https://z4ckstudios.com/TZP">TZP</a> for more info... :3</div>
 
 
 ### <p>About Me:</p>
@@ -28,8 +28,7 @@
 
 # <p></p>
 ### <p>Advertising:</p>
-<div>A small business hosted by a college student who specializes in both entertainment and game development!</div>
-<div>Want to support the `Code Cat`? Contributing is free!</div>
+<div>A small business hosted by a self-published game developer/author.</div>
 
 ### <p></p>
 <img width="25%" src="/assets/images/Z4ckStudiosLogo.png"></img>
