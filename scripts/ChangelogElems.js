@@ -9,11 +9,6 @@ $       Miscellaneous   $
 */
 
 export var CText = [
-    `Beta v2.71 - 03/31/2026`,
-    `> RETURN:/~`,
-    `+ Added a RETURN Page/~`,
-    `+ Appended the RETURN Link/~`,
-    `+ Added RETURN Codes/~`,
     `Beta v2.46 - 01/13/2026`,
     `> MASS OVERHAUL:/~`,
     `$ Updated the ZS Changelog/~`,
